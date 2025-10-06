@@ -4,9 +4,11 @@
 
 📦Connect to EC2/VM (ubuntu/linux)
 #install dependencies 
+
 yum install nodejs npm -y
 
 #creates nextjs application
+
 npx create-next-app my-nextjs-app       
 cd my-nextjs-app
 npm install -y
